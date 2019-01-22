@@ -10,3 +10,9 @@
 
 - [Introducción: Reglas y manual](https://docs.google.com/presentation/d/14sR3XbK1vr3I6JtuS9p6rHjVkNAX3xTwhncVDFFTJkc/edit?fbclid=IwAR37cGT92DwPnu4-98ayK3cej3xTqzQVCd6h-ocnwEX8OwtNSyOruPXzWoo#slide=id.g4ca257a39b_0_34)
 
+
+
+### Miscellaneous
+
+- [Asynchrony: Under the Hood - Shelley Vohr](https://www.youtube.com/watch?v=SrNQS8J67zc&t=59s)
+- [Asynchronous JavaScript cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet)
