@@ -12,6 +12,11 @@
 
 
 
+# Projects repositories
+
+- [AndroFireActivityClassifier](https://github.com/kevinGmezIoT/Projecto-TF-AccelGyro)
+
+
 ### Miscellaneous
 
 - [Asynchrony: Under the Hood - Shelley Vohr](https://www.youtube.com/watch?v=SrNQS8J67zc&t=59s)
